@@ -1,3 +1,4 @@
+![fast-food-catalogue](https://github.com/moyaseram/fast-food-catalogue/assets/171872923/597c0f9b-d8e2-4738-a2d9-88c93a4f1633)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
