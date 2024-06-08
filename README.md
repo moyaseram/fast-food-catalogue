@@ -1,5 +1,5 @@
 ![fast-food-catalogue-min](https://github.com/moyaseram/fast-food-catalogue/assets/171872923/d02f7fe8-5d31-494d-9735-6fee1d61c8eb)
-# Getting Started ![fast-food-catalogue-min](https://github.com/moyaseram/fast-food-catalogue/assets/171872923/c6986b59-aff5-41cf-9cb4-d4c120b69831)
+# Getting Started 
 with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
